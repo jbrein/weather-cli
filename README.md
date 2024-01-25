@@ -1,5 +1,5 @@
 # Weather Command Line Application
-This application is a CLI, constructed entirely with Java and using RestTemplate, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States.
+This application is a CLI, constructed entirely with Java and using RestTemplate, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States. Starter code is from the Tech Elevator Capstone project.
 ## NOTE
 The application uses a constant called **API_KEY** inside the WeatherServices class within the services package. Currently it is set to *"Your API Key here!"*. To have the application execute successfully, you must visit https://home.openweathermap.org/users/sign_up to get a free api key and replace the constant with your own.
 ## Instructions
